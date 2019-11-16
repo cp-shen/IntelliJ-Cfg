@@ -2,4 +2,7 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+  </action>
 </keymap>
