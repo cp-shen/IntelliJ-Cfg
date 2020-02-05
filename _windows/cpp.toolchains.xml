@@ -1,8 +1,7 @@
 <application>
   <component name="CPPToolchains" version="4">
     <toolchains detectedVersion="5">
-      <toolchain name="MinGW" toolSetKind="MINGW" toolSetPath="C:\MyProgram\mingw64" debuggerKind="CUSTOM_GDB" customGDBPath="C:\MyProgram\mingw64\bin\gdb.exe" />
-      <toolchain name="WSL_Ubuntu" toolSetKind="WSL" toolSetPath="C:\Users\cp_shen\AppData\Local\Microsoft\WindowsApps\ubuntu.exe" customCMakePath="\usr\bin\cmake" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
+      <toolchain name="Cygwin" toolSetKind="CYGWIN" toolSetPath="C:\cygwin64" debuggerKind="CUSTOM_GDB" customGDBPath="C:\cygwin64\bin\gdb.exe" />
     </toolchains>
   </component>
 </application>
